@@ -17,6 +17,7 @@ public class TC103_Elena {
         for(int i =0; i<arr2D.length; i++){
             for(int j=arr2D.length-1;j>=0;j--){
                 System.out.print(arr2D[i][j] + " ");
+
             }
 
         }
